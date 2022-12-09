@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: www.yhcljf.com
+  # - title: "Blog Posts"
+  #   url: www.yhcljf.com
     
   - title: "CV"
     url: /files/CV.pdf
