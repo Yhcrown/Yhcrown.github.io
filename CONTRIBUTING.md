@@ -2,14 +2,13 @@
 
 ## About
 
-Hi, I am **Hengchen Yuan** (袁恒宸), a undergraduate student at [SUSTech]([SUSTech](https://www.sustech.edu.cn/en/)).
+Hi, I am **Hengchen Yuan** (袁恒宸), an undergraduate student at [SUSTech]([SUSTech](https://www.sustech.edu.cn/en/)). You can call me Yhcrown.
 
-My research interest primarily lies in software engineering. I am 
-       I am interested in leveraging testing, analysis, and verification techniques to make software systems more *reliable* and *robust*, especially for machine learning systems. Besides, I tremendously enjoy contributing to the open-source community.
+My research interests are mainly in software engineering. I am excited to explore how machine learning and program analysis can be leveraged to improve software systems’ reliability and scalability. Currently I have been exposed in research areas about **fuzzing**, **SCA** (Software Composition Analysis), **HPC** (High-Performance Computing), and **concolic execution**, and would like to explore new topics related to them.
 
-Currently, I focus on testing deep learning libraries, which are the central infrastructure for building, training, optimizing and deploying deep learning models. Until now, my work has totally detected **275** previously unknown bugs for widely-used deep learning libraries, including [PyTorch](https://pytorch.org), [TensorFlow](https://www.tensorflow.org), [JAX](https://jax.readthedocs.io) and [OneFlow](https://github.com/Oneflow-Inc/oneflow).
+So far, my work has detected more than **40** security vulnerabilities in several well-known software, including [Binutils](https://www.gnu.org/software/binutils/), [Bento4](https://www.bento4.com/), [LibTIFF](http://www.simplesystems.org/libtiff/), and **8** of them have been assigned **CVE numbers**.
 
-Besides deep learning libraries, I also reported more than **30** bugs for other open-source projects, such as [NumPy](https://numpy.org), [Moby](https://mobyproject.org), and [VSCode-Vim](https://github.com/VSCodeVim/Vim).
+Besides studying and researching, I love singing and you probably see me performing at many parties. I also like to play various games and I used to be a **Challenger** for the League of Legends.
 
 
 ## Publications
@@ -18,14 +17,9 @@ Besides deep learning libraries, I also reported more than **30** bugs for other
   {% include archive-paper.html %}
 {% endfor %}
 
-<i>* denotes  joint first authors</i>
+## Award
 
-## Talks
+  - SUSTech Motto “QiuShi” Special Award                                                                             2022.10
+  - First-class Merit Student Award at SUSTech                                                                         2022.10
+  - Top 10 Singer in SUSTech                                                                                                 2020.01
 
-Fuzzing Deep-Learning Libraries via Automated Relational API Inference
-
-  - Software Engineering Retreat, University of Illinois at Urbana-Champaign, Sept. 2022
-
-Free Lunch for Testing: Fuzzing Deep-Learning Libraries from Open Source
-
-  - [iSE symposium](http://www.iselab.cn/ises2022/), Nanjing University, May 2022
