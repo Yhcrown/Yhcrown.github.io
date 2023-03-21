@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yhcrown's Home"
+title                    : "Hengchen's Homepage"
 title_separator          : "-"
 name                     : &name "Hengchen Yuan"
 description              : &description "Undergraduate student at SUSTech"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hengchen Yuan"
   avatar           : "profile.jpg"
-  bio              : "Student, Game Developer, Singer"
+  bio              : "Student, Researcher, Game Developer, Singer"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
