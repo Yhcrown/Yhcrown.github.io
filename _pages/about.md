@@ -11,7 +11,7 @@ redirect_from:
 
 ## About
 
-Hi, I am **Hengchen Yuan** (袁恒宸), an undergraduate student from [SUSTech]([SUSTech](https://www.sustech.edu.cn/en/)). I am an incoming PhD student at UT-Austin this fall, advised by Prof. [August Shi](https://sites.utexas.edu/august/)
+Hi, I am **Hengchen Yuan** (袁恒宸), an undergraduate student from [SUSTech]([SUSTech](https://www.sustech.edu.cn/en/)). <!--I am an incoming PhD student at UT-Austin this fall, advised by Prof. [August Shi](https://sites.utexas.edu/august/)>
 
 My research interests are mainly in software engineering. I am excited to improve software systems’ reliability and scalability. Currently I have been exposed in research areas about **Fuzzing**, **SCA** (Software Composition Analysis), and would like to explore new topics related to them.
 
@@ -26,7 +26,7 @@ So far, my work has detected more than **40** security vulnerabilities in severa
 
 ## Award
 
-  - First Special Prize of School Motto Scholarship (Top 0.3%)  Highest academic honor for undergraduates of  SUSTech                                                                             **2022.10**
+  - First Special Prize of School Motto Scholarship (Top 0.3%) --- Highest academic honor for undergraduates of  SUSTech                                                                             **2022.10**
   - First-class Merit Student Award at SUSTech  (Top 5%)                                                                           **2022.10**
   - Top 10 Singer in SUSTech                                                                                                **2020.01**
 
