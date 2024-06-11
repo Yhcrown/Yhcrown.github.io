@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Hengchen Yuan"
-  avatar           : "profile.jpg"
-  bio              : "Student, Researcher, Game Developer, Singer"
-  location         : "Shenzhen, China"
+  avatar           : "profile.png"
+  bio              : 
+  location         : "Austin, TX"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yhcrown@126.com"
+  email            : "hcyuan@utexas.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri             : "https://yhcljf.com"
+  uri             : 
   bitbucket        :
   codepen          :
   dribbble         :
