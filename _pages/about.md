@@ -11,7 +11,7 @@ redirect_from:
 
 ## About
 
-Hi, I am **Hengchen Yuan** (袁恒宸), I'm a first-year PhD student at [University of Texas at Austin](https://www.utexas.edu/) and advised by professor [August Shi](https://sites.utexas.edu/august/). Previously I got my Bachelor's degree from [SUSTech]([SUSTech](https://www.sustech.edu.cn/en/)). My research interest lies on software testing and programing analyis.
+Hi, I am **Hengchen Yuan** (袁恒宸), I'm a third-year PhD student at [University of Texas at Austin](https://www.utexas.edu/) and advised by professor [August Shi](https://sites.utexas.edu/august/). Previously I got my Bachelor's degree from [SUSTech]([SUSTech](https://www.sustech.edu.cn/en/)). My research interest lies on software testing and programing analyis.
 
 <!-- My research interests are mainly in software engineering. I am excited to improve software systems’ reliability and scalability. Currently I have been exposed in research areas about **Fuzzing**, **SCA** (Software Composition Analysis), and would like to explore new topics related to them.
 
