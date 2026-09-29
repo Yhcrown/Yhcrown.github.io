@@ -1,6 +1,6 @@
 ---
 
-title: "Optimizing Mutation Testing through Mutant Grouping"
+title: "Detecting Flaky Tests by Controlling Nondeterministic API Behavior"
 collection: publications
 excerpt: '<b>Hengchen Yuan</b>, Jiefang Lin, August Shi'
 time: 'Oct 2026'
