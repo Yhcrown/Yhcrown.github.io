@@ -8,6 +8,7 @@ date: '2026-10-05'
 venue: 'Proceedings of the ACM on Programming Languages (PACMPL), OOPSLA 2026'
 paperurl: '/files/OOPSLA2026.pdf'
 codeurl: 'https://sites.google.com/view/chaosapi/home/'
+doiurl: 'https://doi.org/10.1145/3798265'
 short: 'OOPSLA 2026'
 
 ---
